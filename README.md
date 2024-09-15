@@ -23,9 +23,7 @@ In this project, I used **YOLOv5** for object detection across various video con
 ## Object Categories:
 - **Person**, **Bike**, **Car**, **Motorcycle**, **Bus**, **Train**, **Truck**, **Traffic light**, **Fire Hydrant**, **Street Sign**, **Dog**, **Skateboard**, **Stroller**, **Scooter**, and other vehicles.
 
-## Timeline:
-- **Start Date**: July 2023
-- **End Date**: May 2024
+
 
   ![Emotion Detection](https://miro.medium.com/v2/resize:fit:1000/1*NLnnf_M4Nlm4p1GAWrWUCQ.gif)
 
